@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GD1hYI6jrcaTuB3qTy9nLTcocZHEdYPsDi+61/uV7IQ=",
+  "Source": "dot.net6-Identity",
+  "BasePath": "_content/dot.net6-Identity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
